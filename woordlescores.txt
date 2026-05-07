@@ -1,0 +1,14 @@
+naam,win,verlies
+paul,8,10
+marlous,1,1
+bo,3,0
+bekir,1,0
+john doe,0,3
+spencer ha,0,1
+hallo,1,10
+hachee,4,8
+mantel,0,1
+katseye,1,0
+tinkerbell,4,1
+wildcats,8,6
+tompoucje,1,0
