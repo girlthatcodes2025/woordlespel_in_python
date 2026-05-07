@@ -1,6 +1,6 @@
 """
 Titel: Woordlespel
-Auteur: Nandhini Gobiend
+Auteur: girlthatcodes2025
 Datum: 20/03/2026
 Versienummer: 1.2
 
